@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&duration=9000&pause=1000&width=435&lines=I'm+too+lazy+to+come+up+with+something+interesting+for+my+profile.+Oh%2C+and+actually+good+developers+don't+need+an+introduction)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=40000&duration=9000&pause=1000&width=435&lines=I'm+too+lazy+to+come+up+with+something+interesting+for+my+profile.+Oh%2C+and+actually+good+developers+don't+need+an+introduction)](https://git.io/typing-svg)
