@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=500&lines=Hi+there...;Welcome+to+my+GitHub;Kali+Linux+User" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Codes&pause=1000&color=088306&background=FF16B400&width=435&lines=Actually+good+developers+don't+need+an+introduction.)](https://git.io/typing-svg)
