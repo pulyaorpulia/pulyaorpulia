@@ -1,15 +1,30 @@
----
-
-## 🔥 Yana kuchliroq (real Kali logo bilan)
-Agar siz **rasmli (asl Kali dragon)** qilishni xohlasangiz:
-
-markdown id="kali-readme-02"
 <p align="center">
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="120"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Access+Granted...;Welcome+to+my+profile;Cybersecurity+Enthusiast;Kali+Linux+User" />
 </p>
 
-bash
-User: yourusername
+---
+
+```bash
+> whoami
+yourusername
+
+> sudo access --status
+[✔] Access Granted
+
+> system.info
+----------------------------
 OS: Kali Linux
-Role: Penetration Tester
-Focus: Exploitation | Recon | Privilege Escalation
+User: yourusername
+Role: Ethical Hacker
+Focus: Pentesting | OSINT | Exploitation
+
+> tools.list
+- Nmap
+- Metasploit
+- Burp Suite
+- Wireshark
+- Hydra
+- John the Ripper
+
+> status
+Learning... Improving... Hacking...
