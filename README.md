@@ -36,3 +36,27 @@ Agar xohlasangiz, yuqoriga Kali logo qo‘shamiz:
 <p align="center">
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="100"/>
 </p>
+
+
+
+
+```bash
+your text here
+
+
+👉 Bu sizga aynan:
+- terminal ko‘rinish  
+- qora fon  
+- hacker vibe  
+
+beradi
+
+---
+
+## 2. Fake qora fon (emoji bilan)
+Bu kichkina hack:
+
+```markdown
+🟩🟩🟩🟩🟩
+🟩 Kali Linux 🟩
+🟩🟩🟩🟩🟩
