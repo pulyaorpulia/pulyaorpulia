@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Codes&pause=1000&color=088306&background=FF16B400&width=435&lines=Actually+good+developers+don't+need+an+introduction.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Codes&pause=1000&color=088306&background=FF16B400&width=435&lines=Actually+good+developers+don't+need+an+introduction." alt="Typing SVG" /></a>
