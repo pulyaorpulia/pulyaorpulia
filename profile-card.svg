@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1065" height="447" viewBox="0 0 1065 447">
+<style>
+text{font-family:'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;font-size:13px;white-space:pre}
+.a{fill:#c9d1d9}
+.h{fill:#c9d1d9}
+.k{fill:#ffa657}
+.c{fill:#c9d1d9}
+.d{fill:#6e7681}
+.v{fill:#a5d6ff}
+.g{fill:#3fb950}
+.r{fill:#f85149}
+.l{animation:in .45s ease both}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.cur{fill:#58a6ff;animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="1064" height="446" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text class="a l" x="28" y="41" xml:space="preserve" style="animation-delay:0.00s">######*=             +@@</text>
+<text class="a l" x="28" y="58" xml:space="preserve" style="animation-delay:0.04s">@@@==*@@@  ++.  -+=  *@@  ++    =+- .=+*++:</text>
+<text class="a l" x="28" y="75" xml:space="preserve" style="animation-delay:0.08s">@@@==*@@@ -@@+  %@@  *@@  #@@  +@@. =+==+@@%</text>
+<text class="a l" x="28" y="92" xml:space="preserve" style="animation-delay:0.12s">@@@###*=  -@@+  %@@  *@@   %@%-@@-  #@@%%@@@</text>
+<text class="a l" x="28" y="109" xml:space="preserve" style="animation-delay:0.16s">@@@        @@@+#@@@  *@@    @@@@+  :@@%=*@@@</text>
+<text class="a l" x="28" y="126" xml:space="preserve" style="animation-delay:0.20s">===         +*+:-==  :==     @@#    .+*+:-==</text>
+<text class="a l" x="28" y="143" xml:space="preserve" style="animation-delay:0.24s">                           @@@+</text>
+<text class="a l" x="28" y="177" xml:space="preserve" style="animation-delay:0.32s">               -+++=.   -+= =+.</text>
+<text class="a l" x="28" y="194" xml:space="preserve" style="animation-delay:0.36s">             -@@%+*@@%  %@@@**:</text>
+<text class="a l" x="28" y="211" xml:space="preserve" style="animation-delay:0.40s">             %@@   *@@- %@@</text>
+<text class="a l" x="28" y="228" xml:space="preserve" style="animation-delay:0.44s">             -@@%+*@@%  %@@</text>
+<text class="a l" x="28" y="245" xml:space="preserve" style="animation-delay:0.48s">               -+*+=.   -==</text>
+<text class="a l" x="28" y="279" xml:space="preserve" style="animation-delay:0.56s">     #######=                 =#######</text>
+<text class="a l" x="28" y="313" xml:space="preserve" style="animation-delay:0.64s">  ######*=             #@%  *@@</text>
+<text class="a l" x="28" y="330" xml:space="preserve" style="animation-delay:0.68s">  @@@==*@@% .++   =+-  %@@  =**  .=+*++:</text>
+<text class="a l" x="28" y="347" xml:space="preserve" style="animation-delay:0.72s">  @@@==*@@% =@@-  @@@  %@@  #@@  -+==+@@%</text>
+<text class="a l" x="28" y="364" xml:space="preserve" style="animation-delay:0.76s">  @@@###*-  =@@-  @@@  %@@  #@@  #@@%%@@@</text>
+<text class="a l" x="28" y="381" xml:space="preserve" style="animation-delay:0.80s">  @@@       :@@%+#@@@  %@@  #@@  @@%=+@@@</text>
+<text class="a l" x="28" y="398" xml:space="preserve" style="animation-delay:0.84s">  ==-        .+*+.-=-  -==  -==   +*+:-==</text>
+<text class="h l" x="397.2" y="41" xml:space="preserve" style="animation-delay:0.20s">- Pulya_or_Pulia@github -────────────────────────────────────────-_-</text>
+<text class="l" x="397.2" y="58" xml:space="preserve" style="animation-delay:0.26s"><tspan class="d">. </tspan><tspan class="k">OS</tspan><tspan class="c">:</tspan><tspan class="d"> .................................... </tspan><tspan class="v">Windows 11</tspan></text>
+<text class="l" x="397.2" y="75" xml:space="preserve" style="animation-delay:0.32s"><tspan class="d">. </tspan><tspan class="k">Uptime</tspan><tspan class="c">:</tspan><tspan class="d"> ................................ </tspan><tspan class="v">Always Learning</tspan></text>
+<text class="l" x="397.2" y="92" xml:space="preserve" style="animation-delay:0.38s"><tspan class="d">. </tspan><tspan class="k">Host</tspan><tspan class="c">:</tspan><tspan class="d"> .................................. </tspan><tspan class="v">Student / Developer</tspan></text>
+<text class="l" x="397.2" y="109" xml:space="preserve" style="animation-delay:0.44s"><tspan class="d">. </tspan><tspan class="k">Kernel</tspan><tspan class="c">:</tspan><tspan class="d"> ................................ </tspan><tspan class="v">Python &amp; Django Operator</tspan></text>
+<text class="l" x="397.2" y="126" xml:space="preserve" style="animation-delay:0.50s"><tspan class="d">. </tspan><tspan class="k">IDE</tspan><tspan class="c">:</tspan><tspan class="d"> ................................... </tspan><tspan class="v">PyCharm, VSCode</tspan></text>
+<text class="d l" x="397.2" y="143" style="animation-delay:0.56s">.</text>
+<text class="l" x="397.2" y="160" xml:space="preserve" style="animation-delay:0.62s"><tspan class="d">. </tspan><tspan class="k">Languages.Programming</tspan><tspan class="c">:</tspan><tspan class="d"> ................. </tspan><tspan class="v">Python, Django, JavaScript</tspan></text>
+<text class="l" x="397.2" y="177" xml:space="preserve" style="animation-delay:0.68s"><tspan class="d">. </tspan><tspan class="k">Languages.Computer</tspan><tspan class="c">:</tspan><tspan class="d"> .................... </tspan><tspan class="v">HTML, CSS, JSON, SQL, PostgreSQL</tspan></text>
+<text class="l" x="397.2" y="194" xml:space="preserve" style="animation-delay:0.74s"><tspan class="d">. </tspan><tspan class="k">Languages.Real</tspan><tspan class="c">:</tspan><tspan class="d"> ........................ </tspan><tspan class="v">Uzbek, Russian, English</tspan></text>
+<text class="d l" x="397.2" y="211" style="animation-delay:0.80s">.</text>
+<text class="l" x="397.2" y="228" xml:space="preserve" style="animation-delay:0.86s"><tspan class="d">. </tspan><tspan class="k">Hobbies.Software</tspan><tspan class="c">:</tspan><tspan class="d"> ...................... </tspan><tspan class="v">Backend, Web Development, AI/ML, Web3</tspan></text>
+<text class="l" x="397.2" y="245" xml:space="preserve" style="animation-delay:0.92s"><tspan class="d">. </tspan><tspan class="k">Hobbies.Hardware</tspan><tspan class="c">:</tspan><tspan class="d"> ...................... </tspan><tspan class="v">PC Building, CPUs, GPUs, Car Audio</tspan></text>
+<text class="l" x="397.2" y="262" xml:space="preserve" style="animation-delay:0.98s"><tspan class="d">. </tspan><tspan class="k">Hobbies.Others</tspan><tspan class="c">:</tspan><tspan class="d"> ........................ </tspan><tspan class="v">Gaming, Technology, Design, Physics</tspan></text>
+<text class="h l" x="397.2" y="279" xml:space="preserve" style="animation-delay:1.04s">- Contact -──────────────────────────────────────────────────────-_-</text>
+<text class="l" x="397.2" y="296" xml:space="preserve" style="animation-delay:1.10s"><tspan class="d">. </tspan><tspan class="k">Email</tspan><tspan class="c">:</tspan><tspan class="d"> ................................. </tspan><tspan class="v">pulyaa1998@mail.ru, puliaa1998@gmail.com</tspan></text>
+<text class="l" x="397.2" y="313" xml:space="preserve" style="animation-delay:1.16s"><tspan class="d">. </tspan><tspan class="k">Telegram</tspan><tspan class="c">:</tspan><tspan class="d"> .............................. </tspan><tspan class="v">@pulya_or_pulia</tspan></text>
+<text class="l" x="397.2" y="330" xml:space="preserve" style="animation-delay:1.22s"><tspan class="d">. </tspan><tspan class="k">Instagram</tspan><tspan class="c">:</tspan><tspan class="d"> ............................. </tspan><tspan class="v">@pulya_or_pulia</tspan></text>
+<text class="l" x="397.2" y="347" xml:space="preserve" style="animation-delay:1.28s"><tspan class="d">. </tspan><tspan class="k">Discord</tspan><tspan class="c">:</tspan><tspan class="d"> ............................... </tspan><tspan class="v">@pulya_or_pulia</tspan></text>
+<text class="h l" x="397.2" y="364" xml:space="preserve" style="animation-delay:1.34s">- GitHub Stats -─────────────────────────────────────────────────-_-</text>
+<text class="l" x="397.2" y="381" xml:space="preserve" style="animation-delay:1.40s"><tspan class="d">. </tspan><tspan class="k">Repos</tspan><tspan class="c">:</tspan><tspan class="d"> ..... </tspan><tspan class="v">8</tspan><tspan class="d"> {</tspan><tspan class="k">Contributed</tspan><tspan class="d">: </tspan><tspan class="k">8</tspan><tspan class="d">}</tspan><tspan class="d">  |  </tspan><tspan class="k">Stars</tspan><tspan class="c">:</tspan><tspan class="d"> ........ </tspan><tspan class="v">5</tspan></text>
+<text class="l" x="397.2" y="398" xml:space="preserve" style="animation-delay:1.46s"><tspan class="d">. </tspan><tspan class="k">Commits</tspan><tspan class="c">:</tspan><tspan class="d"> ....................... </tspan><tspan class="v">29</tspan><tspan class="d">  |  </tspan><tspan class="k">Followers</tspan><tspan class="c">:</tspan><tspan class="d"> .... </tspan><tspan class="v">2</tspan></text>
+<text class="l" x="397.2" y="415" xml:space="preserve" style="animation-delay:1.52s"><tspan class="d">. </tspan><tspan class="k">GitHub LOC</tspan><tspan class="c">:</tspan><tspan class="d"> ............. </tspan><tspan class="v">13,997</tspan><tspan class="d"> ( </tspan><tspan class="g">+1.667M</tspan><tspan class="d">, </tspan><tspan class="r">-1.665M</tspan><tspan class="d"> )</tspan></text>
+<rect class="cur" x="28" y="407" width="7.8" height="13"/>
+</svg>
