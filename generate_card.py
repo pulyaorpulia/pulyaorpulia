@@ -12,7 +12,7 @@ INFO = [
     ("Uptime",                "∞ years"),
     ("Host",                  "Student"),
     ("Kernel",                "Developer"),
-    ("IDE",                   "IDE", "VS Code"),
+    ("IDE",                   "PyCharm / VS Code"),
     None,
     ("Languages.Programming", "Python, C++"),
     ("Languages.Computer",    "HTML, CSS, JSON"),
